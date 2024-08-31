@@ -11,6 +11,5 @@ My Data Science &amp; Analytics Projects
 
 ## Contact Me
 reach out to me at pop.panjapiyakul@gmail.com
+LinkedIn: https://www.linkedin.com/in/sorawit-panjapiyakul-565979181/
 
-## Image
-![Sayaka Yamamoto](https://img.ananweb.jp/2023/05/12083421/19255630d5616eb1cd7dd7e26ba3d145.jpg)
