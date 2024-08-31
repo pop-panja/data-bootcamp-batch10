@@ -10,6 +10,6 @@ My Data Science &amp; Analytics Projects
 5. Linear Regression Model using caret
 
 ## Contact Me
-reach out to me at pop.panjapiyakul@gmail.com
+reach out to me at pop.panjapiyakul@gmail.com<br/>
 LinkedIn: https://www.linkedin.com/in/sorawit-panjapiyakul-565979181/
 
